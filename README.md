@@ -1,2 +1,2 @@
 # my-tools
-This repo has the scripts and programs I usually use at work
+This repo has scripts and programs that I usually use at work
